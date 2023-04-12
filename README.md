@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jacobuscalvin
 - 👀 I’m interested in Website building
-- 🌱 I’m currently learning AngularJS and Swift
+- 🌱 I’m currently working with VueJS and Laravel Projects
 - 📫 Contact me at: jacobus.calvin@gmail.com
 
 <!---
